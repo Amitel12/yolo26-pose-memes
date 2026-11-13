@@ -1,0 +1,7 @@
+me.jpg
+empty.jpg
+runs/
+.venv/
+yolo26n-pose.pt
+.idea/
+__pycache__/
